@@ -1,3 +1,5 @@
+[Meetups / Tapaamiset](meetups.md)
+
 [Suomenkielinen teksti alla.](#joesec-1)
 
 # JoeSec
@@ -29,10 +31,11 @@ In the future, whatever useful and constructive ideas people come up with.
 
 * Tell others about JoeSec (if they're interested in infosec)
 * Let us know you'd like to attend a future meetup
-* Sign up for a meetup once it's posted
+* Sign up for a [meetup](meetups.md) once it's posted
 * Keep an eye out for suitable venues for physical meetups
 * Help organize physical or virtual meetups
 * Keep an eye on discussion on Mattermost or Telegram and moderate if necessary
+* Help maintain the Github repository
 * If you have decent knowledge about an infosec topic that might interest others, offer us a presentation
 * Or write an article about it in the JoeSec site (we'll translate if necessary)
 * If you have some knowledge that the JoeSec community seems to be lacking, maybe you could teach us?
@@ -87,10 +90,11 @@ Tulevaisuudessa tehdään mitä tahansa hyödyllistä ja rakentavaa porukka keks
 
 * Kerro muille tietoturvasta kiinnostuneille JoeSecistä
 * Kerro kiinnostuksestasi osallistua tulevaan tapaamiseen
-* Ilmoittaudu tapaamiseen kun sellaisesta ilmoitellaan
+* Ilmoittaudu [tapaamiseen](meetups.md) kun sellaisesta ilmoitellaan
 * Pidä silmällä fyysiseen tapaamiseen sopivia tiloja
 * Auta tapaamisten järjestelyissä
 * Pidä silmällä Mattermostin tai Telegramin keskustelua ja moderoi tarvittaessa
+* Auta ylläpitämään Github-repositorya
 * Jos sinulla on jostain tietoturvaan liittyvästä asiantuntemusta, tarjoa esitystä pidettäväksi tapaamisessa
 * Tai kirjoita artikkeli JoeSecin sivuille (käännetään kyllä tarvittaessa)
 * Jos osaat tai tiedät jotakin, joka tuntuu olevan JoeSec-yhteisöltä hukassa, ehkä voisit opettaa?
