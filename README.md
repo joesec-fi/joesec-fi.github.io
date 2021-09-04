@@ -16,6 +16,8 @@ CitySec is a voluntary community effort of learning and sharing information abou
 
 The people currently active in JoeSec can be reached in [CitySec Mattermost](https://citysec.disobey.fi/citysec/channels/citysec-joesec) and [Telegram](https://t.me/joesec).
 
+[Introductions here](people.md).
+
 ## What do you actually do?
 
 The first thing is to reach people, that is, spread the word that JoeSec is a thing!
@@ -74,6 +76,8 @@ CitySec on vapaaehtoinen yhteisöllinen ponnistus tietoturvaa koskevan tiedon ja
 "Me" olemme kaikki ne, joita tietoturva-asiat kiinnostavat - ammatin, opintojen tai muuten vain kiinnostuksen kautta. Kaikki edustavat vain itseään, jollei erikseen toisin mainita.
 
 Tällä hetkellä aktiiviset henkilöt tavoittaa [CitySecin Mattermost-alustalla](https://citysec.disobey.fi/citysec/channels/citysec-joesec) ja [Telegramissa](https://t.me/joesec).
+
+[Esittelyt täällä](people.md)
 
 ## Mitä te käytännössä teette?
 
