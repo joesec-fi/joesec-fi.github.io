@@ -1,8 +1,9 @@
 # Meetups / Tapaamiset
 
-Active discussion about future meetups: see Mattermost and Telegram.
+Active discussion about future meetups: see [CitySec Mattermost](https://citysec.disobey.fi/citysec/channels/citysec-joesec) and [Telegram](https://t.me/joesec).
 
-Aktiivinen keskustelu tulevista tapaamisista: Mattermost ja Telegram.
+Aktiivinen keskustelu tulevista tapaamisista: [Mattermost](https://citysec.disobey.fi/citysec/channels/citysec-joesec) ja [Telegram](https://t.me/joesec).
+
 
 ## Upcoming / Tulevat tapaamiset
 
@@ -28,4 +29,6 @@ Aktiivinen keskustelu tulevista tapaamisista: Mattermost ja Telegram.
 * Aika: ???
 * Kieli: ???
 
-Interested? Let us know! 
+Interested? Let us know! [CitySec Mattermost](https://citysec.disobey.fi/citysec/channels/citysec-joesec) and [Telegram](https://t.me/joesec)
+
+Kiinnostaako? Ilmoittele! [Mattermost](https://citysec.disobey.fi/citysec/channels/citysec-joesec) ja [Telegram](https://t.me/joesec)
