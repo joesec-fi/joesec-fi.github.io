@@ -11,6 +11,6 @@ Varoitus: omituinen huumorintaju.
 
 ## Your name here / Nimesi tähän
 
-Would you like to be involved? Come along! Sign up in Mattermost or Telegram!
+Would you like to be involved? Come along! Sign up in [CitySec Mattermost](https://citysec.disobey.fi/citysec/channels/citysec-joesec) or [Telegram](https://t.me/joesec)!
 
-Haluatko mukaan? Tervetuloa! Ilmoittaudu Mattermostissa tai Telegramissa!
+Haluatko mukaan? Tervetuloa! Ilmoittaudu [Mattermostissa](https://citysec.disobey.fi/citysec/channels/citysec-joesec) tai [Telegramissa](https://t.me/joesec)!
