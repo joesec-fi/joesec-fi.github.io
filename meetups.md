@@ -29,6 +29,8 @@ Aktiivinen keskustelu tulevista tapaamisista: [Mattermost](https://citysec.disob
 * Aika: ???
 * Kieli: ???
 
+[TODO list / Tehtävälista](todo/0x01.md)
+
 Interested? Let us know! [CitySec Mattermost](https://citysec.disobey.fi/citysec/channels/citysec-joesec) and [Telegram](https://t.me/joesec)
 
 Kiinnostaako? Ilmoittele! [Mattermost](https://citysec.disobey.fi/citysec/channels/citysec-joesec) ja [Telegram](https://t.me/joesec)
