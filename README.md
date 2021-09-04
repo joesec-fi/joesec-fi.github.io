@@ -1,4 +1,4 @@
-Suomenkielinen teksti alla.
+[Suomenkielinen teksti alla.](#joesec-1)
 
 # JoeSec
 
