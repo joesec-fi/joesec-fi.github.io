@@ -1,4 +1,4 @@
-[Meetups / Tapaamiset](meetups.md)
+[Meetups / Tapaamiset](meetups.md) - [People / Ihmiset](people.md)
 
 [Suomenkielinen teksti alla.](#joesec-1)
 
