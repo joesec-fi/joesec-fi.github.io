@@ -1,4 +1,4 @@
-[Suomenkielinen teksti alla.](https://github.com/joesec-fi/joesec-fi.github.io#joesec-1)
+Suomenkielinen teksti alla.
 
 # JoeSec
 
