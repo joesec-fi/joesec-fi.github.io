@@ -109,7 +109,7 @@ Koska Githubissa nimi joesec oli jo varattu. JoeSec tulee sanoista Joensuu ja Se
 * Vältä eturistiriitoja
 * Vältä pelon, epävarmuuden ja epäilyksen (FUD, Fear Uncertainty and Doubt) lietsomista
 * Pidä kaikkien tiedot suojattuna (käytä salausta yms. keinoja)
-* Älä ole typerä
+* Älä käyttäydy typerästi.
 * Jos näet jonkun toimivan typerästi, ilmoita: security@citysec.fi
 
 ## Miksi tämä oli englanniksi?
